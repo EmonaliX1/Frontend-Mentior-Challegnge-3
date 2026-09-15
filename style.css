@@ -61,8 +61,10 @@ main{
   font-size: 1.25rem;
 }
 
-.social-title h5{
+.social-title .location{
+  margin-top: 2px;
   color: var(--Green);
+  font-size: .75rem;
 }
 .social-title p{
   font-size: var(--Font-size-paragraph);
