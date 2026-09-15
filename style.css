@@ -46,6 +46,7 @@ main{
   border-radius: 50px;
   overflow: hidden;
   margin:0 auto;
+  margin-bottom: 10px;
 
 }
 .social-image img{
@@ -55,6 +56,9 @@ main{
 
 .social-title{
   text-align: center;
+}
+.social-card h1 {
+  font-size: 1.25rem;
 }
 
 .social-title h5{
